@@ -150,7 +150,7 @@ This project is licensed under the ISC License - see the LICENSE file for detail
 
 ## 👤 Author
 
-Your Name
+Hosam Aboud
 
 ## 🙏 Acknowledgments
 
